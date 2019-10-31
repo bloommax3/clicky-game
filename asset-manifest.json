@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bloommax3/clicky-game.git/static/css/main.3c6c1d55.chunk.css",
+    "main.js": "/bloommax3/clicky-game.git/static/js/main.8c645e3a.chunk.js",
+    "main.js.map": "/bloommax3/clicky-game.git/static/js/main.8c645e3a.chunk.js.map",
+    "runtime-main.js": "/bloommax3/clicky-game.git/static/js/runtime-main.07f6312c.js",
+    "runtime-main.js.map": "/bloommax3/clicky-game.git/static/js/runtime-main.07f6312c.js.map",
+    "static/js/2.05bcf8b3.chunk.js": "/bloommax3/clicky-game.git/static/js/2.05bcf8b3.chunk.js",
+    "static/js/2.05bcf8b3.chunk.js.map": "/bloommax3/clicky-game.git/static/js/2.05bcf8b3.chunk.js.map",
+    "index.html": "/bloommax3/clicky-game.git/index.html",
+    "precache-manifest.2a6ba2573bc8e0adb64a1420380dc95f.js": "/bloommax3/clicky-game.git/precache-manifest.2a6ba2573bc8e0adb64a1420380dc95f.js",
+    "service-worker.js": "/bloommax3/clicky-game.git/service-worker.js",
+    "static/css/main.3c6c1d55.chunk.css.map": "/bloommax3/clicky-game.git/static/css/main.3c6c1d55.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07f6312c.js",
+    "static/js/2.05bcf8b3.chunk.js",
+    "static/css/main.3c6c1d55.chunk.css",
+    "static/js/main.8c645e3a.chunk.js"
+  ]
+}
